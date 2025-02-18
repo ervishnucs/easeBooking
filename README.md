@@ -45,7 +45,8 @@ This project is a **Conversational AI bot** for **movie ticket booking**, utiliz
   - `Close` – End conversation  
   - `Delegate` – Let Lex manage interaction  
   - `ElicitSlot` – Ask for missing details  
-  - `ElicitIntent` – Clarify user intent  
+  - `ElicitIntent` – Clarify user intent
+  ![Lambda Integration](https://drive.google.com/file/d/167QVslgY6rKG9ReGN5Z2L38HT0603OGF/view?usp=sharing)
 
 ---
 
