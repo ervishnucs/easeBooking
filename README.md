@@ -31,7 +31,7 @@ This project is a **Conversational AI bot** for **movie ticket booking**, utiliz
 ### ✅ **1. Creating the Amazon Lex Chatbot**  
 - Designed **Intents** & **Slots** to handle user inputs  
 
-![Amazon Lex Intents & Slots]([https://raw.githubusercontent.com/ervishnucs/easebooking/main/images/lex.png)
+![Amazon Lex Intents & Slots](https://raw.githubusercontent.com/ervishnucs/easebooking/main/images/lex.png)
 
 
 ---
@@ -45,7 +45,8 @@ This project is a **Conversational AI bot** for **movie ticket booking**, utiliz
   - `Delegate` – Let Lex manage interaction  
   - `ElicitSlot` – Ask for missing details  
   - `ElicitIntent` – Clarify user intent
-  ![Lambda Integration](https://drive.google.com/file/d/167QVslgY6rKG9ReGN5Z2L38HT0603OGF/view?usp=sharing)
+
+
 
 ---
 
@@ -58,7 +59,7 @@ This project is a **Conversational AI bot** for **movie ticket booking**, utiliz
     
 
 Now, users can book tickets simply by chatting with the bot on **WhatsApp**. 🎟📲  
-![WhatsApp Integration](https://drive.google.com/file/d/1Iboa-P6PtiF-IF7KjcmnKTV0yWYOxkEl/view?usp=sharing)
+  ![twilio](https://raw.githubusercontent.com/ervishnucs/easebooking/main/images/twilio.png)
 ---
 
 ### ✅ **4. Web Integration with Kommunicate**  
