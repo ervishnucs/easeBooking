@@ -31,7 +31,8 @@ This project is a **Conversational AI bot** for **movie ticket booking**, utiliz
 ### ✅ **1. Creating the Amazon Lex Chatbot**  
 - Designed **Intents** & **Slots** to handle user inputs  
 
-![Amazon Lex Setup](https://drive.google.com/uc?export=view&id=167QVslgY6rKG9ReGN5Z2L38HT0603OGF) 
+![Amazon Lex Intents & Slots](https://drive.google.com/uc?export=view&id=167QVslgY6rKG9ReGN5Z2L38HT0603OGF)
+
 
 
 ---
