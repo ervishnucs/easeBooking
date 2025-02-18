@@ -30,11 +30,7 @@ This project is a **Conversational AI bot** for **movie ticket booking**, utiliz
 
 ### ✅ **1. Creating the Amazon Lex Chatbot**  
 - Designed **Intents** & **Slots** to handle user inputs  
-- Implemented **Dialog Actions** for conversation flow:
-  - `Close` – End conversation  
-  - `Delegate` – Let Lex manage interaction  
-  - `ElicitSlot` – Ask for missing details  
-  - `ElicitIntent` – Clarify user intent  
+
 ![Amazon Lex Setup](https://drive.google.com/uc?export=view&id=167QVslgY6rKG9ReGN5Z2L38HT0603OGF) 
 
 
@@ -43,7 +39,12 @@ This project is a **Conversational AI bot** for **movie ticket booking**, utiliz
 ### ✅ **2. Integrating AWS Lambda for Data Retrieval & Slot Validation**  
 - Connected **AWS Lambda** to retrieve movie names, show timings, and theatre names  
 - Implemented **slot validation** to ensure correct inputs  
-- Managed **intent validation & session state** for a smooth booking experience  
+- Managed **intent validation & session state** for a smooth booking experience
+   - Implemented **Dialog Actions** for conversation flow:
+  - `Close` – End conversation  
+  - `Delegate` – Let Lex manage interaction  
+  - `ElicitSlot` – Ask for missing details  
+  - `ElicitIntent` – Clarify user intent  
 
 ---
 
