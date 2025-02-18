@@ -59,7 +59,7 @@ This project is a **Conversational AI bot** for **movie ticket booking**, utiliz
     
 
 Now, users can book tickets simply by chatting with the bot on **WhatsApp**. 🎟📲  
-  ![twilio](https://raw.githubusercontent.com/ervishnucs/easebooking/main/images/twilio.png)
+  ![twilio](https://raw.githubusercontent.com/ervishnucs/easebooking/main/images/twilio.jpg)
 ---
 
 ### ✅ **4. Web Integration with Kommunicate**  
@@ -68,7 +68,7 @@ Now, users can book tickets simply by chatting with the bot on **WhatsApp**. �
 - Automated customer support to handle queries  
 
 Users can now access the bot via **both WhatsApp and the website** for an effortless booking experience. 🚀  
-![Web Inrtegration](https://drive.google.com/file/d/167QVslgY6rKG9ReGN5Z2L38HT0603OGF/view?usp=sharing)
+![web](https://raw.githubusercontent.com/ervishnucs/easebooking/main/images/web.png)
 ---
 
 ## 📌 Next Steps  
