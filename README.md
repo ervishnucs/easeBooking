@@ -30,6 +30,28 @@ This project is a **Conversational AI bot** for **movie ticket booking**, utiliz
 
 ### ✅ **1. Creating the Amazon Lex Chatbot**  
 - Designed **Intents** & **Slots** to handle user inputs  
+#### **Intent & Slot Configuration**  
+- **Intent** – Represents an action the user wants to perform. A bot can support multiple intents.  
+- **Intent Name** – A unique name for each action (e.g., `BookMovieTicket`).  
+- **Sample Utterances** – Example phrases a user might say, like:  
+  - `"I want to book a movie ticket."`  
+  - `"Can I get tickets for Spider-Man?"`  
+- **Fulfilling the Intent** – Uses AWS Lambda to process the request.  
+
+#### **Slots & Slot Types**  
+- Each **intent** can require multiple **slots** (parameters).  
+- Example slots for **movie ticket booking**:  
+  - 🎬 **Movie Name** – The name of the movie  
+  - 🏢 **Theatre Name** – The location of the theatre  
+  - ⏰ **Show Timing** – Time of the movie  
+  - 🎟 **Number of Tickets** – How many tickets to book  
+
+- **Slot Type** – Defines the valid values a user can provide:  
+  - `MovieName` – List of available movies  
+  - `TheatreLocation` – Predefined locations  
+  - `ShowTime` – Morning, Evening, Night  
+
+At runtime, **Amazon Lex prompts users** for missing slot values and processes the booking once all required slots are filled.  
 
 ![Amazon Lex Intents & Slots](lex.png)
 
