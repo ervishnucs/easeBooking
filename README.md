@@ -1,7 +1,7 @@
 # 🎬 AI-Powered Movie Ticket Booking Bot  
 
 ## 📌 Overview  
-This project is a **Conversational AI bot** for **movie ticket booking**, utilizing **Amazon Lex, AWS Lambda, Amazon DynamoDB, Twilio, and Kommunicate**. The bot allows users to book movie tickets seamlessly via **WhatsApp and a web-based chatbot** while automating customer support.  
+This project is a **Conversational AI bot** for **movie ticket booking**, utilizing **Amazon Lex, AWS Lambda, Twilio, and Kommunicate**. The bot allows users to book movie tickets seamlessly via **WhatsApp and a web-based chatbot** while automating customer support.  
 
 ---
 
@@ -20,7 +20,6 @@ This project is a **Conversational AI bot** for **movie ticket booking**, utiliz
 ## ⚙️ Technologies Used  
 - **Amazon Lex** – For building the chatbot  
 - **AWS Lambda** – For backend logic and slot validation  
-- **Amazon DynamoDB** – For storing movie, theatre, and booking details  
 - **Twilio API** – For WhatsApp integration  
 - **Kommunicate** – For embedding the chatbot on a webpage  
 
